@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/alef-development/static/css/main.891e9818.chunk.css",
-    "main.js": "/alef-development/static/js/main.f0be60ea.chunk.js",
-    "main.js.map": "/alef-development/static/js/main.f0be60ea.chunk.js.map",
-    "runtime-main.js": "/alef-development/static/js/runtime-main.1c9f7321.js",
-    "runtime-main.js.map": "/alef-development/static/js/runtime-main.1c9f7321.js.map",
-    "static/js/2.2d97b222.chunk.js": "/alef-development/static/js/2.2d97b222.chunk.js",
-    "static/js/2.2d97b222.chunk.js.map": "/alef-development/static/js/2.2d97b222.chunk.js.map",
-    "index.html": "/alef-development/index.html",
-    "static/css/main.891e9818.chunk.css.map": "/alef-development/static/css/main.891e9818.chunk.css.map",
-    "static/js/2.2d97b222.chunk.js.LICENSE.txt": "/alef-development/static/js/2.2d97b222.chunk.js.LICENSE.txt",
-    "static/media/footer.sass": "/alef-development/static/media/Montserrat-Regular.087334ca.ttf",
-    "static/media/logo.18e5c76b.svg": "/alef-development/static/media/logo.18e5c76b.svg",
-    "static/media/plus.c6ac5b76.svg": "/alef-development/static/media/plus.c6ac5b76.svg"
+    "main.css": "/alef/static/css/main.512a746e.chunk.css",
+    "main.js": "/alef/static/js/main.f0be60ea.chunk.js",
+    "main.js.map": "/alef/static/js/main.f0be60ea.chunk.js.map",
+    "runtime-main.js": "/alef/static/js/runtime-main.30266ba3.js",
+    "runtime-main.js.map": "/alef/static/js/runtime-main.30266ba3.js.map",
+    "static/js/2.2d97b222.chunk.js": "/alef/static/js/2.2d97b222.chunk.js",
+    "static/js/2.2d97b222.chunk.js.map": "/alef/static/js/2.2d97b222.chunk.js.map",
+    "index.html": "/alef/index.html",
+    "static/css/main.512a746e.chunk.css.map": "/alef/static/css/main.512a746e.chunk.css.map",
+    "static/js/2.2d97b222.chunk.js.LICENSE.txt": "/alef/static/js/2.2d97b222.chunk.js.LICENSE.txt",
+    "static/media/footer.sass": "/alef/static/media/Montserrat-Regular.087334ca.ttf",
+    "static/media/logo.18e5c76b.svg": "/alef/static/media/logo.18e5c76b.svg",
+    "static/media/plus.c6ac5b76.svg": "/alef/static/media/plus.c6ac5b76.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c9f7321.js",
+    "static/js/runtime-main.30266ba3.js",
     "static/js/2.2d97b222.chunk.js",
-    "static/css/main.891e9818.chunk.css",
+    "static/css/main.512a746e.chunk.css",
     "static/js/main.f0be60ea.chunk.js"
   ]
 }
